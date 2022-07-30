@@ -1,0 +1,5 @@
+// rename to .env
+
+module.exports = {
+  auth_secret: 'any_secret'
+}
